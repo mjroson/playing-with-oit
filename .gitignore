@@ -1,0 +1,12 @@
+data/db
+data/node_modules
+data/.npm
+
+
+.env
+
+data/
+
+influxdb/
+
+grafana-provisioning/
